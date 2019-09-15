@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Optica</string>
+    <string name="title_activity_principal">principal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">hola</string>
+    <string name="nav_header_subtitle">elije una opcion es este menu</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Contactar Vendedor</string>
+    <string name="action_settings_ayuda">Ayuda</string>
+    <string name="empesar">Empieza por aca</string>
+    <string name="recomendacion">explora los diferentes articulos</string>
+    <string name="recomiendad">que tenemos para ti</string>
+    <string name="empezara">solo presionando</string>
+    <string name="empezarb">Ver articulos en la parte</string>
+    <string name="empezarc">del menu de aqui arriba</string>
+    <string name="empezard">y listo</string>
+    <string name="Bienvenida">Bienvenid@</string>
+    <string name="verLentes">ver articulos</string>
+    <string name="comprar">Comprar</string>
+    <string name="adquiridos">ver articulos adquiridos</string>
+    <string name="registrar">registrar articulo</string>
+    <string name="modificar">modificar articulo</string>
+    <string name="manita">o presionando la manita de</string>
+    <string name="manita2">aqui abajo</string>
+</resources>

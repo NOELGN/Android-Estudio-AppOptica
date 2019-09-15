@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/ver_lentes"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Ver Lentes Disponibles" />
+        <item
+            android:id="@+id/comprar_lentes"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Comprar Lentes" />
+        <item
+            android:id="@+id/carro_compra"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Compras" />
+       <item
+            android:id="@+id/menu_Extra"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Extras" />
+    </group>
+
+    <item android:title="administrador">
+        <menu>
+            <item
+              android:id="@+id/agregar_lentes"
+              android:icon="@drawable/ic_menu_manage"
+              android:title="Agregar Lentes" />
+            <item
+                android:id="@+id/actualizar_eliminar"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="buscar-actualizar-eliminar-Lentes" />
+            <item
+                android:id="@+id/lentes_vendidos"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Ver Lentes Vendidos" />
+        </menu>
+    </item>
+
+</menu>
